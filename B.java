@@ -1,3 +1,6 @@
 public class B {
-    void x(){}
+    void x(){
+        y();
+    }
+    void y(){}
 }
